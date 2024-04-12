@@ -2,7 +2,8 @@
 
 My name is Neale, I'm an undergraduate at the National University of Singapore, majoring in Computer science 🖥️. I'm a tinkerer of technology, and I find joy in learning new technologies and messing with software! 
 
-* I'm in my 5th semester of studies, with a focus area in Parallel Computing.
+* I'm in my 6th semester of studies, with a focus area in Parallel Computing and Database Systems.
+* I am an incoming Applications Developer Intern at Accenture 🌱 (May - Aug 2024).
 * I was a Cyber Analytics intern at HTX Q Team 🚀 (May - Aug 2023). 
 * I’m looking to collaborate in any project! 🎉
 
